@@ -1,2 +1,8 @@
 # Fashion-Recommendation-System
-AI Project
+TO RUN IMAGE SEARCCHING :
+
+
+TO RUN BODY MEASUREMENTS
+
+
+TO RUN VIRTUAL TRY ON :
